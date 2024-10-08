@@ -1,36 +1,6 @@
 ### Bonjour 👋, je m'appelle Yacine Berkani ! 😁
 
 Je suis actuellement en Master Big Data à l'[Université Paris 8](https://www.univ-paris8.fr/-Master-Big-Data-et-fouille-de-donnees-BD-), avec une spécialisation en Science des Données, Big Data et Intelligence Artificielle.  
-Avec une solide expérience en tant que Data Scientist, Analyste et Ingénieur Big Data, j'ai travaillé sur des projets passionnants dans le domaine de l'analyse de données et du machine learning, et je suis toujours à la recherche de nouvelles opportunités pour appliquer mes compétences.
-
-### Expériences professionnelles récentes :
-- **Stage Data Scientist/Gen AI** – Laboratoire Paragraphe Paris 8  
-  Scraping, génération de texte avec des modèles comme RAG, LLM et fine-tuning avec Hugging Face.
-  
-- **Stage Data Analyst** – IRIS  
-  Création de tableaux de bord interactifs avec Power BI et analyse de données.
-
-- **Stage Data Engineering** – ENIEM  
-  Conception d'architecture Big Data avec Hadoop sur Google Cloud Platform (GCP).
-
-### Projets :
-- **Détection de tumeurs cérébrales à partir d'IRM**  
-  Utilisation de modèles CNN, VGG16, Random Forest pour la détection des anomalies.
-
-- **Analyse de sentiments sur les tweets**  
-  Modèles RNN, LSTM, BLSTM pour analyser et classifier les tweets selon les émotions.
-
-- **Prédiction du prix de l'immobilier**  
-  Techniques de régression avec des modèles comme Random Forest Regressor et Régression linéaire.
-
-### Compétences techniques :
-- **Langages :** Python, R, SQL, Scala, Java, C  
-- **Big Data :** Hadoop, Spark, MapReduce, Hive  
-- **Machine Learning :** TensorFlow, Keras, scikit-learn  
-- **Cloud :** AWS, Google Cloud Platform (GCP)  
-- **BI et Data Visualisation :** Power BI, Tableau  
-- **Outils ETL :** Talend, Logstash  
-- **Bases de données :** MySQL, PostgreSQL, MongoDB, Cassandra
 
 ---
 
@@ -40,6 +10,10 @@ Avec une solide expérience en tant que Data Scientist, Analyste et Ingénieur B
 - ⚡ Fait amusant : Découvrez mon [profil LinkedIn](https://www.linkedin.com/in/yacine-berkani-a66189244/) !
 
 ---
+
+Au cours de mes études, j’ai eu l’opportunité de mener plusieurs projets ambitieux, dont un portant sur la classification des tumeurs cérébrales grâce à des techniques de machine learning. J’ai également travaillé sur des problématiques complexes liées à la régression, au clustering et à la détection d’anomalies. Plus récemment, mon stage en IA générative m’a permis de me spécialiser dans des architectures avancées telles que les Transformers, les autoencodeurs, ainsi que le fine-tuning de modèles de langage open source via la plateforme Hugging Face.
+Dans ce cadre, j’ai aussi développé des solutions en Retrieval-Augmented Generation (RAG) et exploré des architectures multi-agents, tout en maîtrisant des outils d’IA générative tels que Llama Index, LangChain, ChromaDB et CrewAI. Ces expériences m’ont offert une vision complète du cycle de vie des projets en data science et m’ont permis de contribuer activement à l’innovation dans ce domaine en plein essor.
+Travailler au sein de votre entreprise représente pour moi une formidable opportunité de mettre à profit mes compétences tout en participant à des projets à fort impact. Je suis convaincu que mon expertise technique, mon goût pour les défis analytiques, et ma capacité à collaborer en équipe seront des atouts précieux pour votre entreprise.
 
 **Outils et Langages :**
 
