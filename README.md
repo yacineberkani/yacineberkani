@@ -1,7 +1,7 @@
 ### Bonjour 👋, je m'appelle Yacine Berkani ! 😁
 
 Je suis actuellement en Master Big Data à l'[Université Paris 8](https://www.univ-paris8.fr/-Master-Big-Data-et-fouille-de-donnees-BD-), avec une spécialisation en Science des Données, Big Data et Intelligence Artificielle.  
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yacine.berkani)
 ---
 
 - 🔭 Actuellement à la recherche d'une alternance en Data Science ou Big Data.
