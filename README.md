@@ -44,6 +44,6 @@ Travailler au sein de votre entreprise représente pour moi une formidable oppor
 
 ### Travaillons ensemble !
 
-Si vous avez un projet autour des données, du Big Data ou de l'IA, n'hésitez pas à [me contacter](mailto:yacineberkani32@gmail.com).
+Si vous avez un projet autour des données, du Big Data ou de l'IA, n'hésitez pas à [me contacter](yacineberkani32@gmail.com).
 
 ---
