@@ -4,7 +4,7 @@ Je suis actuellement en Master Big Data à l'[Université Paris 8](https://www.u
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yacine.berkani)
 ---
 
-- 🔭 Actuellement à la recherche d'une alternance en Data, voici mon [CV](https://github.com/yacineberkani/cv-alternance-/blob/main/CValtBY.pdf).
+- 🔭 Actuellement à la recherche d'une alternance en Data, voici mon [CV]([https://github.com/yacineberkani/CVALT/blob/main/BERKANIALT.pdf]).
 - 💬 Discutons de tech, d'algorithmes, de big data ou d'IA.
 - 📫 Contactez-moi à yacineberkani32@gmail.com.
 - ⚡ Fait amusant : Découvrez mon [profil LinkedIn](https://www.linkedin.com/in/yacine-berkani-a66189244/) !
