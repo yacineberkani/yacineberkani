@@ -25,9 +25,9 @@
 </p>
 
 * 📖 M2 Big Data @ [Université Paris 8](https://www.univ-paris8.fr).
+* 🔭 Actuellement à la recherche d'une alternance ou d'un stage en Data, voici mon [CV](https://github.com/yacineberkani/MonCV/blob/main/BERKANIcv.pdf).
 * 🎓 Intérêt pour la **NLP**, l'**IA générative** et l'**apprentissage automatique**.
 * 💻 Expérience en **scraping de données** scientifiques et **analyse de texte**.
-* 🔭 Actuellement à la recherche d'une alternance ou d'un stage en Data, voici mon [CV](https://github.com/yacineberkani/MonCV/blob/main/BERKANIcv.pdf).
 * 💬 Discutons de tech, d'algorithmes, de big data ou d'IA.
 * 📫 Contactez-moi à yacineberkani32@gmail.com.
 * ⚡ Fait amusant : Découvrez mon [profil LinkedIn](https://www.linkedin.com/in/yacine-berkani-a66189244/) !
