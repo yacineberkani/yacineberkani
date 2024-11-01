@@ -4,7 +4,7 @@
 </a>
 <br/>
 
-<a href="[https://www.linkedin.com/in/yacine-berkani](https://www.linkedin.com/in/yacine-berkani-a66189244/)">
+<a href="https://www.linkedin.com/in/yacine-berkani-a66189244/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:yacineberkani32@gmail.com">
