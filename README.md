@@ -43,7 +43,7 @@
 | Title | Stars | Technologies |
 |-------|-------|--------------|
 | [Brain Tumor Classification](https://github.com/yacineberkani/Detection_de_Tumeurs) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/Brain-Tumor-Classification?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) |
-| [Anomaly Detection](https://github.com/YacineBerkani/Anomaly-Detection) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/Anomaly-Detection?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
+| [RAG MultiDoc](https://github.com/yacineberkani/Rag_multidoc) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/Anomaly-Detection?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
 | [Data Scraping for Research](https://github.com/YacineBerkani/Data-Scraping-Research) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/Data-Scraping-Research?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-black?style=flat-square&logo=beautifulsoup) |
 
 </td><td>
