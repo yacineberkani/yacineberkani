@@ -50,9 +50,9 @@
 
 | Title | Stars | Technologies |
 |-------|-------|--------------|
-| [ETL Pipeline with Spark](https://github.com/YacineBerkani/ETL-Pipeline-Spark) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/ETL-Pipeline-Spark?style=flat-square&labelColor=black"/> | ![Spark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apachespark) ![PySpark](https://img.shields.io/badge/PySpark-black?style=flat-square&logo=python) |
-| [Database Analysis](https://github.com/YacineBerkani/Database-Analysis) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/Database-Analysis?style=flat-square&labelColor=black"/> | ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql) |
-| [Data Visualization](https://github.com/YacineBerkani/Data-Visualization) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/Data-Visualization?style=flat-square&labelColor=black"/> | ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=python) |
+| [Cluster Hadoop](https://github.com/yacineberkani/projet-Big-data-Hadoop) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/ETL-Pipeline-Spark?style=flat-square&labelColor=black"/> | ![Spark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apachespark) ![PySpark](https://img.shields.io/badge/PySpark-black?style=flat-square&logo=python) |
+| [Database Analysis](https://github.com/yacineberkani/projet-Big-data-Hadoop/blob/main/projet.hql) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/Database-Analysis?style=flat-square&labelColor=black"/> | ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql) |
+| [Data Visualization](https://github.com/yacineberkani/projet-Big-data-Hadoop/blob/main/projet%20copy.ipynb) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/Data-Visualization?style=flat-square&labelColor=black"/> | ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=python) |
 
 </td></tr> 
 </table>
