@@ -23,7 +23,7 @@
 </a>
 
 </p>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yacine.berkani)
+
 
 * 📖 M2 Big Data @ [Université Paris 8](https://www.univ-paris8.fr).
 * 🔭 Actuellement à la recherche d'une alternance ou d'un stage en Data, voici mon [CV](https://github.com/yacineberkani/MonCV/blob/main/BERKANIcv.pdf).
@@ -34,6 +34,7 @@
 * ⚡ Fait amusant : Découvrez mon [profil LinkedIn](https://www.linkedin.com/in/yacine-berkani-a66189244/) !
 
 ---
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yacine.berkani)
 
 ### 🖥️ Open-Source Projects
 
