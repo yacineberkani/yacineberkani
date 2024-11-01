@@ -27,6 +27,10 @@
 * 📖 M2 Big Data @ [Université Paris 8](https://www.univ-paris8.fr).
 * 🎓 Intérêt pour la **NLP**, l'**IA générative** et l'**apprentissage automatique**.
 * 💻 Expérience en **scraping de données** scientifiques et **analyse de texte**.
+* 🔭 Actuellement à la recherche d'une alternance ou d'un stage en Data, voici mon [CV](https://github.com/yacineberkani/MonCV/blob/main/BERKANIcv.pdf).
+* 💬 Discutons de tech, d'algorithmes, de big data ou d'IA.
+* 📫 Contactez-moi à yacineberkani32@gmail.com.
+* ⚡ Fait amusant : Découvrez mon [profil LinkedIn](https://www.linkedin.com/in/yacine-berkani-a66189244/) !
 
 ---
 
@@ -38,7 +42,7 @@
 
 | Title | Stars | Technologies |
 |-------|-------|--------------|
-| [Brain Tumor Classification](https://github.com/YacineBerkani/Brain-Tumor-Classification) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/Brain-Tumor-Classification?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) |
+| [Brain Tumor Classification](https://github.com/yacineberkani/Detection_de_Tumeurs) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/Brain-Tumor-Classification?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) |
 | [Anomaly Detection](https://github.com/YacineBerkani/Anomaly-Detection) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/Anomaly-Detection?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
 | [Data Scraping for Research](https://github.com/YacineBerkani/Data-Scraping-Research) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/Data-Scraping-Research?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-black?style=flat-square&logo=beautifulsoup) |
 
@@ -67,75 +71,7 @@ My Github Stats
 
 
 
-<p align="center">
-<a href="https://github.com/YacineBerkani">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yacine+Berkani;M2+Big+Data+%7C+Research+%7C+Software+Engineer;NLP+%7C+Machine+Learning+%7C+AI+Research" alt="Typing SVG" />
-</a>
-<br/>
 
-<a href="https://www.linkedin.com/in/yacine-berkani">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="mailto:berkani.yacine@example.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-
-<br/> 
-
-<a href="https://github.com/YacineBerkani">
-    <img src="https://github-stats-alpha.vercel.app/api?username=YacineBerkani&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-
-</p>
-
-* 📖 M2 Big Data @ [Université Paris 8](https://www.univ-paris8.fr).
-* 🎓 Intérêt pour la **NLP**, l'**IA générative** et l'**apprentissage automatique**.
-* 💻 Expérience en **scraping de données** scientifiques et **analyse de texte**.
-
-### 🖥️ Open-Source Projects
-<table>
-<tr><th>Machine Learning</th><th>Data Engineering</th></tr>
-<tr><td>
-
-|Title | Stars | Technologies|
-|--|--|--|
-| [Brain Tumor Classification](https://github.com/YacineBerkani/Brain-Tumor-Classification) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/Brain-Tumor-Classification?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow)|
-| [Anomaly Detection](https://github.com/YacineBerkani/Anomaly-Detection) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/Anomaly-Detection?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [Data Scraping for Research](https://github.com/YacineBerkani/Data-Scraping-Research) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/Data-Scraping-Research?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-black?style=flat-square&logo=beautifulsoup)|
-
-</td><td>
-
-|Title | Stars | Technologies|
-|--|--|--|
-| [ETL Pipeline with Spark](https://github.com/YacineBerkani/ETL-Pipeline-Spark) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/ETL-Pipeline-Spark?style=flat-square&labelColor=black"/> | ![Spark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apachespark) ![PySpark](https://img.shields.io/badge/PySpark-black?style=flat-square&logo=python)|
-| [Database Analysis](https://github.com/YacineBerkani/Database-Analysis) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/Database-Analysis?style=flat-square&labelColor=black"/> | ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql)|
-| [Data Visualization](https://github.com/YacineBerkani/Data-Visualization) | <img alt="Stars" src="https://img.shields.io/github/stars/YacineBerkani/Data-Visualization?style=flat-square&labelColor=black"/> | ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=python)|
-
-</td></tr> </table>
-
-<details>
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YacineBerkani&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YacineBerkani&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YacineBerkani&theme=dracula)
-
-</details>
-
-
-### Bonjour 👋, je m'appelle Yacine Berkani ! 😁
-
-Je suis actuellement en Master Big Data à l'[Université Paris 8](https://www.univ-paris8.fr/-Master-Big-Data-et-fouille-de-donnees-BD-), avec une spécialisation en Science des Données, Big Data et Intelligence Artificielle.  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yacine.berkani)
----
-
-- 🔭 Actuellement à la recherche d'une alternance ou d'un stage en Data, voici mon [CV](https://github.com/yacineberkani/MonCV/blob/main/BERKANIcv.pdf).
-- 💬 Discutons de tech, d'algorithmes, de big data ou d'IA.
-- 📫 Contactez-moi à yacineberkani32@gmail.com.
-- ⚡ Fait amusant : Découvrez mon [profil LinkedIn](https://www.linkedin.com/in/yacine-berkani-a66189244/) !
 
 ---
 
