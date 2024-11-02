@@ -14,9 +14,11 @@
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <br/> 
-<a href="https://github.com/YacineBerkani">
-    <img src="https://github-stats-alpha.vercel.app/api?username=YacineBerkani&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+<!-- Badge pour le Total de dépôts -->
+<img src="https://img.shields.io/badge/Total%20Repos-17-blue?style=flat-square" alt="Total Repos">
+
+<!-- Badge pour les Contributions -->
+<img src="https://img.shields.io/badge/Contributions-108-green?style=flat-square" alt="Contributions">
 
 </p>
 
