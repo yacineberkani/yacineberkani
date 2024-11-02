@@ -1,24 +1,23 @@
 <p align="center">
-    <a href="https://github.com/YacineBerkani">
-        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yacine+Berkani;M2+Big+Data+%7C+Research+%7C+Software+Engineer;NLP+%7C+Machine+Learning+%7C+AI+Research" alt="Typing SVG" />
-    </a>
-    <br/>
+   <a href="https://github.com/YacineBerkani">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yacine+Berkani;M2+Big+Data+%7C+Research+%7C+Software+Engineer;NLP+%7C+Machine+Learning+%7C+AI+Research" alt="Typing SVG" />
+</a>
+<br/>
+<a href="https://www.linkedin.com/in/yacine-berkani-a66189244/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:yacineberkani32@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+</a>  
+<a href="https://github.com/yacineberkani/MonCV/blob/main/BERKANIcv.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
+<br/> 
+<a href="https://github.com/YacineBerkani">
+    <img src="https://github-stats-alpha.vercel.app/api?username=YacineBerkani&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
-    <a href="https://www.linkedin.com/in/yacine-berkani-a66189244/">
-        <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-    </a>
-    <a href="mailto:yacineberkani32@gmail.com">
-        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://github.com/yacineberkani/MonCV/blob/main/BERKANIcv.pdf">
-        <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-    </a>  
-    <br/> 
-
-    <!-- Afficher seulement le Total Repos et Contributions -->
-    <a href="https://github.com/YacineBerkani">
-        <img src="https://github-stats-alpha.vercel.app/api?username=YacineBerkani&hide=stars,forks,issues&show_icons=true&count_private=true&title_color=37BCF6&icon_color=fff&bg_color=0000" alt="GitHub Stats">
-    </a>
 </p>
 
 
