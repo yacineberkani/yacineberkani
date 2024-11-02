@@ -15,8 +15,8 @@
 </a>  
 <br/> 
 <a href="https://github.com/YacineBerkani">
-        <img src="https://github-stats-alpha.vercel.app/api?username=YacineBerkani&hide=stars,forks,issues&show_icons=true&count_private=true&title_color=37BCF6&icon_color=fff&bg_color=0000" alt="GitHub Stats">
-    </a>
+    <img src="https://github-stats-alpha.vercel.app/api?username=YacineBerkani&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
 </p>
 
