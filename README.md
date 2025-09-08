@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/YacineBerkani">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yacine+Berkani;M2+Big+Data+%7C+Research+%7C+Software+Engineer;NLP+%7C+Machine+Learning+%7C+AI+Research" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Yacine+Berkani;Big+Data+%7C+AI+engineer+%7C+Software+Engineer;NLP+%7C+Machine+Learning+%7C+AI+Research" alt="Typing SVG" />
 </a>
 <br/>
 <a href="https://www.linkedin.com/in/yacine-berkani-a66189244/">
