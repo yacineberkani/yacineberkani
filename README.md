@@ -22,8 +22,8 @@
 
 
 
-* 📖 M2 Big Data @ [Université Paris 8](https://www.univ-paris8.fr/-Master-Big-Data-et-fouille-de-donnees-BD-).
-* 🔭 Actuellement à la recherche d'une alternance ou d'un stage en Data
+* 📖 Ingénieur Big Data - AI engineer @ [Université Paris 8](https://www.univ-paris8.fr/-Master-Big-Data-et-fouille-de-donnees-BD-).
+* 🔭 Actuellement à la recherche d'un CDI 
 * 🎓 Intérêt pour la **NLP**, l'**IA générative** et l'**apprentissage automatique**.
 * 💻 Expérience en **scraping de données** scientifiques et **analyse de texte**.
 * 💬 Discutons de tech, d'algorithmes, de big data ou d'IA.
