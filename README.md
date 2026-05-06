@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 </a>  
-<a href="[yacine berkani cv.pdf](https://github.com/user-attachments/files/27436632/yacine.berkani.cv.pdf)">
+<a href="https://github.com/user-attachments/files/27436632/yacine.berkani.cv.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <br/> 
