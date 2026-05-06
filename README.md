@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 </a>  
-<a href="https://github.com/yacineberkani/MonCV/blob/main/Cv%20Brk.pdf">
+<a href="https://github.com/yacineberkani/yacineberkani/issues/1#issue-4390841557">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <br/> 
