@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 </a>  
-<a href="https://github.com/user-attachments/files/27436632/yacine.berkani.cv.pdf">
+<a href="https://yacineberkani.github.io/">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <br/> 
@@ -22,7 +22,7 @@
 
 
 
-* 📖 Ingénieur Big Data - AI engineer @ [Université Paris 8](https://www.univ-paris8.fr/-Master-Big-Data-et-fouille-de-donnees-BD-).
+* 📖 Ingénieur Big Data - AI engineer @ [JEMS-GROUP](https://www.jems-group.com/fr/).
 * 🎓 Intérêt pour la **NLP**, l'**IA générative** et l'**apprentissage automatique**.
 * 💻 Expérience en **scraping de données** scientifiques et **analyse de texte**.
 * 💬 Discutons de tech, d'algorithmes, de big data ou d'IA.
