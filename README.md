@@ -11,7 +11,7 @@
 </a>
 </a>  
 <a href="https://yacineberkani.github.io/">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+    <img src="https://img.shields.io/badge/Portfolio-CV-red?style=flat-square&logo=adobe">
 </a>  
 <br/> 
 <a href="https://github.com/YacineBerkani">
