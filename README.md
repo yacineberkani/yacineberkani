@@ -23,8 +23,8 @@
 
 
 * 📖 Ingénieur Data Scientist - AI Engineer @ [JEMS-GROUP](https://www.jems-group.com/fr/).
-* 🎓 Intérêt pour la **NLP**, l'**IA générative** et l'**apprentissage automatique**.
-* 💻 Expérience en **scraping de données** **GCP** **analyse de texte**.
+* 🎓 Intérêt pour la **NLP**, **Computer Vision**, **Machine/Deep Learning** et l'**IA générative**  .
+* 💻 Expérience en **conception et industrialisation de solutions Data & IA** **scraping de données**  **analyse de texte**.
 * 💬 Discutons de tech, d'algorithmes, de big data ou d'IA.
 * ⚡ Fait amusant : Découvrez mon [profil LinkedIn](https://www.linkedin.com/in/yacine-berkani-a66189244/) !
 
